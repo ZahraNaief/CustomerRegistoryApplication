@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Assignmet5_ABC/1.0.0": {
+        "runtime": {
+          "Assignmet5_ABC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignmet5_ABC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
